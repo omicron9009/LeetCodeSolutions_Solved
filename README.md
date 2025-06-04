@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
