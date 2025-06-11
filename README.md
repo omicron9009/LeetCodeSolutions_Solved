@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
