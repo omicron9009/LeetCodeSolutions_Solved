@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0496-next-greater-element-i) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
@@ -83,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
