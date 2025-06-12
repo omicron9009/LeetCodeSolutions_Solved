@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
