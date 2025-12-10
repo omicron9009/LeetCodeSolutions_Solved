@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0417-pacific-atlantic-water-flow) |
@@ -125,11 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0417-pacific-atlantic-water-flow) |
 ## Graph
@@ -143,5 +146,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0417-pacific-atlantic-water-flow) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
