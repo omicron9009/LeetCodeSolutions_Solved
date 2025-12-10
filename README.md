@@ -121,4 +121,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0225-implement-stack-using-queues) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
