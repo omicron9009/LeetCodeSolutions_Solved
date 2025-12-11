@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0217-contains-duplicate) |
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
