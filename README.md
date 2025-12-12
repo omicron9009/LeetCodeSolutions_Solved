@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0496-next-greater-element-i) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0435-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
