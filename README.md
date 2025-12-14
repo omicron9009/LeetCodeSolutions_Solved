@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0417-pacific-atlantic-water-flow) |
 ## Union Find
