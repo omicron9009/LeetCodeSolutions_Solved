@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
 ## Stack
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0206-reverse-linked-list) |
 ## Design
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0435-non-overlapping-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
