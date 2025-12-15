@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0056-merge-intervals) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1013-fibonacci-number) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
