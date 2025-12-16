@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0198-house-robber) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0242-valid-anagram) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0417-pacific-atlantic-water-flow) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0417-pacific-atlantic-water-flow) |
 ## Union Find
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
