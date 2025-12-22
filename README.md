@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0647-palindromic-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0417-pacific-atlantic-water-flow) |
 ## Graph
 |  |
@@ -228,9 +232,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
