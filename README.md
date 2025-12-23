@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0198-house-robber) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0169-majority-element) |
 ## Stack
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
