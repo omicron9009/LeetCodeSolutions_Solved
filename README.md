@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0435-non-overlapping-intervals) |
 ## Counting
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
