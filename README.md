@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
 | ------- |
