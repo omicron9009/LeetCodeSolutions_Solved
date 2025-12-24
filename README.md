@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0424-longest-repeating-character-replacement) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
