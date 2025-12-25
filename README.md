@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0496-next-greater-element-i) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0435-non-overlapping-intervals) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0435-non-overlapping-intervals) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
