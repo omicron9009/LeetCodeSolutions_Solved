@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/0733-flood-fill) |
+| [1470-shuffle-the-array](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/1929-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/omicron9009/LeetCodeSolutions_Solved/tree/master/3075-maximize-happiness-of-selected-children) |
